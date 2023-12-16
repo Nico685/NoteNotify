@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150613693245",
+    "project_id": "appnotenotify",
+    "storage_bucket": "appnotenotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150613693245:android:517e5f8d8cfeb1450dab54",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionnotenotify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYON4zyEocIoKUA-mA4ynBeBojsE5VoWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
